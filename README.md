@@ -2,6 +2,10 @@
 
 Este repositório contém o código-fonte e os arquivos relacionados à implementação de um sinal SOS em código Morse, desenvolvido como parte de uma atividade prática no curso de Sistemas Embarcados.
 
+## Execução
+
+![Execução da Simulação](execucao-simulacao.gif)
+
 ## Descrição do Projeto
 
 O projeto consiste em um firmware desenvolvido em linguagem C para a placa **BitDogLab** (compatível com o Raspberry Pi Pico), que utiliza um LED e um buzzer para gerar o sinal SOS em código Morse. Este sinal é composto por três pontos (`S`), três traços (`O`) e três pontos (`S`), com intervalos de tempo definidos para simular o padrão Morse.
